@@ -1,0 +1,1 @@
+1	positive regulation of transcription by RNA polymerase II (GO:0045944)	13	72.2%	100.0%

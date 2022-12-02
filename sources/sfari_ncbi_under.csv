@@ -1,0 +1,4 @@
+status,gene-symbol,gene-name,ensembl-id,chromosome,genetic-category,gene-score,syndromic,eagle,number-of-reports
+9,MSNP1AS,"Moesinpseudogene 1, antisense",,5,"Genetic Association, Functional",2.0,0,,13
+9,RP11-1407O15.2,,,17,Rare Single Gene Mutation,2.0,0,,1
+9,RPS10P2-AS1,ribosomal protein S10 pseudogene 2 anti-sense 1,,20,"Genetic Association, Functional",2.0,0,,4

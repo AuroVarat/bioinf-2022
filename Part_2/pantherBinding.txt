@@ -1,0 +1,9 @@
+1	organic cyclic compound binding (GO:0097159)	54	56.3%	26.0%
+2	heterocyclic compound binding (GO:1901363)	54	56.3%	26.0%
+3	protein-containing complex binding (GO:0044877)	10	10.4%	4.8%
+4	carbohydrate derivative binding (GO:0097367)	4	4.2%	1.9%
+5	chromatin binding (GO:0003682)	19	19.8%	9.1%
+6	ion binding (GO:0043167)	7	7.3%	3.4%
+7	small molecule binding (GO:0036094)	8	8.3%	3.8%
+8	neurotransmitter binding (GO:0042165)	5	5.2%	2.4%
+9	protein binding (GO:0005515)	47	49.0%	22.6%

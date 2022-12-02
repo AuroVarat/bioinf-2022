@@ -1,0 +1,6 @@
+1	intracellular vesicle (GO:0097708)	3	3.2%	3.0%
+2	mitochondrion (GO:0005739)	3	3.2%	3.0%
+3	vacuole (GO:0005773)	8	8.4%	7.9%
+4	endoplasmic reticulum (GO:0005783)	1	1.1%	1.0%
+5	Golgi apparatus (GO:0005794)	2	2.1%	2.0%
+6	nucleus (GO:0005634)	84	88.4%	83.2%

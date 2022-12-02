@@ -1,0 +1,10 @@
+status,gene-symbol,gene-name,ensembl-id,chromosome,genetic-category,gene-score,syndromic,eagle,number-of-reports
+9,AR,androgen receptor,,X,Genetic Association,2.0,0,,6
+9,CACNA1C,"calcium channel, voltage-dependent, L type, alpha 1C subunit",ENSG00000151067,12,"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional",1.0,1,,55
+9,MET,met proto-oncogene (hepatocyte growth factor receptor),,7,"Rare Single Gene Mutation, Genetic Association, Functional",2.0,0,,39
+9,PLCB1,"phospholipase C, beta 1 (phosphoinositide-specific)",ENSG00000182621,20,Rare Single Gene Mutation,2.0,0,,7
+9,RHOXF1,"Rhox homeobox family, member 1",ENSG00000101883,X,Genetic Association,2.0,0,,3
+9,SETBP1,SET binding protein 1,ENSG00000152217,18,"Rare Single Gene Mutation, Syndromic",1.0,0,,25
+9,ST7,suppression of tumorigenicity 7,ENSG00000004866,7,Rare Single Gene Mutation,2.0,0,,4
+9,SOS2,SOS Ras/Rho guanine nucleotide exchange factor 2,,14,"Rare Single Gene Mutation, Syndromic",,0,,5
+9,USP9Y,"ubiquitin specific peptidase 9, Y-linked",ENSG00000114374,Y,"Rare Single Gene Mutation, Genetic Association",2.0,0,,2

@@ -1,0 +1,11 @@
+1	transporter activity (GO:0005215)	11	5.3%	3.7%
+2	No PANTHER category is assigned (UNCLASSIFIED)	68	32.7%	22.7%
+3	transcription regulator activity (GO:0140110)	41	19.7%	13.7%
+4	catalytic activity (GO:0003824)	52	25.0%	17.3%
+5	cytoskeletal motor activity (GO:0003774)	1	0.5%	0.3%
+6	molecular function regulator (GO:0098772)	6	2.9%	2.0%
+7	ATP-dependent activity (GO:0140657)	9	4.3%	3.0%
+8	molecular transducer activity (GO:0060089)	11	5.3%	3.7%
+9	molecular adaptor activity (GO:0060090)	3	1.4%	1.0%
+10	structural molecule activity (GO:0005198)	2	1.0%	0.7%
+11	binding (GO:0005488)	96	46.2%	32.0%
